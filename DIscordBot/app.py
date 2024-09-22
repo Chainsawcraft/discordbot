@@ -3,10 +3,10 @@ from discord.ext import commands
 import os
 
 # Definir variables de configuración directamente aquí o cargar desde un archivo de configuración
-TOKEN = 'MTIxOTAxNjg5NjcyMTE5NTA0MA.G2aPUN.T2sQpbbHhUcfEjMIMPJntjFzZCPGE1j7_PD_RI'
-CHANNEL_ID_ESTADO = '1275593106967761058'
-GUILD_ID = '1272351854486884445'
-CHANNEL_ID_GAMES = '1275593026260959368'
+TOKEN = ''
+CHANNEL_ID_ESTADO = ''
+GUILD_ID = ''
+CHANNEL_ID_GAMES = ''
 intents = discord.Intents.default()
 intents.message_content = True
 
